@@ -20,8 +20,11 @@ If you couldn't find the `Templates` folder you need to create it manually and t
 `Project Template` currently supports for UIKit Applications. While further structuring is required for SwiftUI Applications, following values are set default.
 
 **Inteface**: *Storyboard*
+
 **Lifecycle**: *UIKit App Delegate*
+
 **Language**: *Swift*
+
 **Use Core Data**: *false*
 
 
